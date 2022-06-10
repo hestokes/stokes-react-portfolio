@@ -1,0 +1,31 @@
+import React from "react";
+import "../styles/Aboutme.css";
+
+function AboutMe() {
+  return (
+    <section className="aboutme">
+      <nav id="aboutme">
+        <h2>WHO AM I?</h2>
+      </nav>
+      <ol>
+        <li>Hello! My name is Aaron Stokes</li>
+        <li>I am a brand new web developer, and a lifelong learner.</li>
+        <li>
+          I am honored to be a part of this profession, and I am looking forward
+          to contributing to it.
+        </li>
+        <li>
+          I am intrigued with UI and beautiful frontend development, and I
+          growing into the complexity of the backend.
+        </li>
+      </ol>
+      <img
+        src={require("../styles/images/Lee.jpg")}
+        className="profile"
+        alt="profile photo"
+      ></img>
+    </section>
+  );
+}
+
+export default AboutMe;
