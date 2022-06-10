@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stokes-react-portfolio/static/css/main.4c4d2087.css",
+    "main.js": "/stokes-react-portfolio/static/js/main.0452550f.js",
+    "static/media/teamgeneratedmessage.png": "/stokes-react-portfolio/static/media/teamgeneratedmessage.e1a49fa672d92638b368.png",
+    "static/media/employeetrackercreateemployee.png": "/stokes-react-portfolio/static/media/employeetrackercreateemployee.4d5b7f01b2ef2163f278.png",
+    "static/media/workdaytasks134.png": "/stokes-react-portfolio/static/media/workdaytasks134.b9bfbb63a982d29c02dd.png",
+    "static/media/recipeaddedchicken.png": "/stokes-react-portfolio/static/media/recipeaddedchicken.898ae735ff0b38f0bd4f.png",
+    "static/media/weatherdashboardcitysearchresult.png": "/stokes-react-portfolio/static/media/weatherdashboardcitysearchresult.a1cba9114a09a8eecc9d.png",
+    "static/media/budgettrackerlivedeploy.png": "/stokes-react-portfolio/static/media/budgettrackerlivedeploy.6cd8bc18490462b68da7.png",
+    "static/media/AaronStokesheadshot.png": "/stokes-react-portfolio/static/media/AaronStokesheadshot.4af4ef2449556507b003.png",
+    "static/media/watercolorbackground.jpeg": "/stokes-react-portfolio/static/media/watercolorbackground.d6ffa77ebeed4cf19e26.jpeg",
+    "index.html": "/stokes-react-portfolio/index.html",
+    "main.4c4d2087.css.map": "/stokes-react-portfolio/static/css/main.4c4d2087.css.map",
+    "main.0452550f.js.map": "/stokes-react-portfolio/static/js/main.0452550f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c4d2087.css",
+    "static/js/main.0452550f.js"
+  ]
+}
