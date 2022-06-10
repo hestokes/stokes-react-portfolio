@@ -16,7 +16,7 @@
 - My react portfolio was created as a culmination of a Full Stack Web Development [boot camp](https://bootcamp.berkeley.edu/coding/). This portfolio was created using [React](https://reactjs.org/), and features projects I was able to create over the course of the bootcamp.
 - As is true with all resumes, my React portfolio is a work in progress, please come back to watch it grow and evolve!
 
-- Pleae take a look at a live deployed version [here!]()
+- Pleae take a look at a live deployed version [here!](https://hestokes.github.io/stokes-react-portfolio/)
 
 ## Features
 
@@ -28,10 +28,7 @@
 
 ### Usage
 
-![](?raw=true)
-![](?raw=true)
-![](?raw=true)
-![](?raw=true)
+![Aaron Stokes portfolio](src/styles/images/stokesportfolio.png?raw=true)
 
 ## Technology
 
