@@ -1,31 +1,31 @@
 .resume button {
   margin: 30px;
   padding: 10px;
-  background-color: wheat;
+  background-color: #f7f1e3;
   color: var(--backgroundcolor);
-  font-family: fantasy;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 1.5rem;
   cursor: grab;
-  border: none;
-  box-shadow: 5px 5px 5px gray;
+  border: 1px solid #0D0D0D;
+  box-shadow: 16px 22px 11px #0D0D0D;
   align-self: center;
 }
 
 /* button effect to hover and active  */
 
-.resume button:hover {
+/* .resume button:hover {
   background-color: var(--backgroundcolor);
-  color: wheat;
+  color: red;
 }
 
 .resume button:active {
   font-size: 30px;
-  box-shadow: 0 0 10px #000 inset;
-}
+  box-shadow: 0 0 10px #F8EFBA inset;
+} */
 
 /* button click pseudo- coming soon! */
 .resume button:focus::after {
   content: " -> coming soon!";
   background-color: transparent;
-  color: red;
+  color: white;
 }

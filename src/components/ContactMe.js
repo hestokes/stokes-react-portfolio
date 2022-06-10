@@ -42,7 +42,7 @@ function ContactMe() {
         <h2>Contact Me</h2>
       </nav>
       <p>
-        If you liked my work as much as I loved building it, please conact me!
+        If you like my work as much as I loved building it, please contact me!
       </p>
 
       <div>

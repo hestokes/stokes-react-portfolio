@@ -1,8 +1,8 @@
-# Title / Repository Title
+# Aaron-React-Portfolio
 
 ## Table of contents
 
-> - [Title / Repository Name](#title--repository-name)
+> - [Aaron React Portfolio](aaron-react-portfolio)
 >   - [Table of contents](#table-of-contents)
 >   - [About / Synopsis](#about--synopsis)
 >   - [Features](#features)

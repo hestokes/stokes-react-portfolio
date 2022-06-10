@@ -10,7 +10,7 @@ function Resume() {
       <button>
         <a href="https://www.linkedin.com/in/h-aaron-stokes/">
           {" "}
-          Click me to see my resume{" "}
+          Click hear to see my resume{" "}
         </a>
       </button>
     </section>

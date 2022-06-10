@@ -15,8 +15,8 @@ function AboutMe() {
           to contributing to it.
         </li>
         <li>
-          I am intrigued with UI and beautiful frontend development, and I
-          growing into the complexity of the backend.
+          I am intrigued with UI/UX and beautiful frontend development, and I am
+          growing to love the complexity of the backend.
         </li>
       </ol>
       <img

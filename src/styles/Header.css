@@ -1,6 +1,6 @@
 header {
   background-color: var(--backgroundcolor);
-  color: white;
+  color: #ffffff;
 }
 
 .header h1 {
@@ -25,14 +25,14 @@ header {
 }
 
 .header a {
-  color: wheat;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .header img {
   display: flexbox;
   width: 90%;
-  height: 500px;
+  height: 400px;
   margin-left: 5%;
   margin-right: 5%;
   background-image: url("./images/watercolorbackground.jpeg");
@@ -49,5 +49,5 @@ header {
 }
 
 .active {
-  background-color: yellowgreen;
+  background-color: #f5f6fa;
 }
