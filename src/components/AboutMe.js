@@ -20,9 +20,9 @@ function AboutMe() {
         </li>
       </ol>
       <img
-        src={require("../styles/images/Lee.jpg")}
+        src={require("../styles/images/AaronStokesheadshot.png")}
         className="profile"
-        alt="profile photo"
+        alt="Aaron Stokes black and white with hat on"
       ></img>
     </section>
   );

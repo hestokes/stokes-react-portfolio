@@ -11,7 +11,9 @@ function Work() {
         <button id="workboxbtn">
           {" "}
           <a href="https://jeongholee21.github.io/weather-dashboard/">
-            <img src={require("../styles/images/weather.jpg")} />
+            <img
+              src={require("../styles/images/weatherdashboardcitysearchresult.png")}
+            />
             <section className="details">
               <h4> Weather Dashboard! </h4>
               <p>
@@ -24,7 +26,7 @@ function Work() {
         <button id="workboxbtn">
           {" "}
           <a href="https://jeongholee21.github.io/work-day-scheduler/index.html">
-            <img src={require("../styles/images/scheduler.jpg")} />
+            <img src={require("../styles/images/workdaytasks134.png")} />
             <section className="details">
               <h4> Work Day Scheduler </h4>
               <p>
@@ -37,7 +39,7 @@ function Work() {
         <button id="workboxbtn">
           {" "}
           <a href="https://big-sexy-recipes.herokuapp.com/">
-            <img src={require("../styles/images/recipe.jpg")} />
+            <img src={require("../styles/images/recipeaddedchicken.png")} />
             <section className="details">
               <h4>Sexy Recipes</h4>
               <p>Deployed Page: https://big-sexy-recipes.herokuapp.com/ </p>
